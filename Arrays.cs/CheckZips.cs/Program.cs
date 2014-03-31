@@ -9,7 +9,7 @@ namespace CheckZips.cs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Input 10 zip codes");
+            Console.WriteLine("Input a zip codes");
             int[] Zip = new int[10];
             for (int i = 0; i < Zip.Length; i++)
             {
